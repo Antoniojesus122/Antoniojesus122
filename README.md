@@ -2,6 +2,8 @@
 
 ### 👋 ¡Hola! Soy Antonio
 
+Actualmente soy estudiante de un **Grado Superior en Desarrollo de Aplicaciones Web**, apasionado de la informática con gran capacidad de resolución de problemas y proactivo. Programador en formación continua en diferentes tecnologías y lenguajes en búsqueda de nuevos conocimientos y proyectos competentes. Con pensamiento a futuro de convertirme en **Data Analyst y Desarrollador de Python**. Me destaco por mis ideas innovadoras y diferentes, con un enfoque en la automatización e inteligencia artificial. Mi objetivo es encontrar una oportunidad laboral en un entorno en el que pueda desarrollar mis habilidades y aplicar mis conocimientos en el área de la tecnología.
+
 
 ---
 
