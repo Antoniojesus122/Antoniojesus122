@@ -53,7 +53,7 @@ Actualmente soy estudiante de un **Grado Superior en Desarrollo de Aplicaciones 
 ### 📫 Conéctate conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/antonio-jes%C3%BAs-gonz%C3%A1lez-domingo-b572ab2b2/)
-[![Portafolio](https://img.shields.io/badge/Mi%20Portafolio-orange?style=for-the-badge)](https://antoniojesusporfolio.netlify.app/)
+[![Portafolio](https://img.shields.io/badge/Mi%20Portafolio-orange?style=for-the-badge)](https://antoniojesusportfolio.netlify.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/antoniojesus122/)
 
 
