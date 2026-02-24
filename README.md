@@ -31,6 +31,7 @@
 const antonio = {
   rol:        "Desarrollador Full Stack · Técnico Informático",
   formacion:  "Grado Superior — Desarrollo de Aplicaciones Web",
+  experiencia: "Actualmente trabajando para Iberbox",
   enfoque:    ["Automatización", "Inteligencia Artificial", "Data Engineer"],
   objetivo:   "Convertirme en Data Engineer y Desarrollador Python",
   ubicacion:  "España 🇪🇸",
