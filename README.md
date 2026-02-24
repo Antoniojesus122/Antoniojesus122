@@ -31,8 +31,8 @@
 const antonio = {
   rol:        "Desarrollador Full Stack · Técnico Informático",
   formacion:  "Grado Superior — Desarrollo de Aplicaciones Web",
-  enfoque:    ["Automatización", "Inteligencia Artificial", "Data Analysis"],
-  objetivo:   "Convertirme en Data Analyst y Desarrollador Python",
+  enfoque:    ["Automatización", "Inteligencia Artificial", "Data Engineer"],
+  objetivo:   "Convertirme en Data Engineer y Desarrollador Python",
   ubicacion:  "España 🇪🇸",
   openTo:     true,
 };
