@@ -81,17 +81,6 @@ Estudiante apasionado de la informática con gran capacidad de resolución de pr
 
 ---
 
-## 〉GitHub Stats
-
-<div align="center">
-
-![Antonio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=antoniojesus122&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=7c3aed&icon_color=7c3aed&text_color=ffffff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniojesus122&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=7c3aed&text_color=ffffff)
-
-</div>
-
----
 
 <div align="center">
 
